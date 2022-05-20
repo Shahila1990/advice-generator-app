@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/html5-and-css-properties-like-flexbox-positioning-jvavascript-fetch-OCmWeFbfEq))
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://advice-by-one-click.netlify.app/))
+- Solution URL: [Add solution URL here]([https://www.frontendmentor.io/solutions/html5-and-css-properties-like-flexbox-positioning-jvavascript-fetch-OCmWeFbfEq])
+- Live Site URL: [Add live site URL here]([https://advice-by-one-click.netlify.app/])
 
 ## My process
 
